@@ -32,6 +32,7 @@ Log files structure:
 
 
 Firewall log file Parser functions:
+
     1.	get dictionary from log file. Dictionary’s keys example:
     {'SRC_IP': '192.168.1.1', 'ACTION': 'PASS', 'DATE': '2018-4-21 19:42:48', 'DST_IP': '192.168.2.100', 'PORT': '445'}
 
